@@ -133,23 +133,23 @@ if (isset($_GET['action'])) {
 		<!-- Contact -->
 			<article class="container box style3">
 				<header>
-					<h2>Nisl sed ultricies</h2>
-					<p>Diam dignissim lectus eu ornare volutpat orci.</p>
+					<h2>CONTACT ME</h2>
+					<p>Send me a message!</p>
 				</header>
-				<form>
+				<form action="index.php?action=sendemail" method="POST" role="form">
 					<div class="row half">
 						<div class="6u"><input type="text" class="text" name="name" placeholder="Name" /></div>
 						<div class="6u"><input type="text" class="text" name="email" placeholder="Email" /></div>
 					</div>
 					<div class="row half">
 						<div class="12u">
-							<textarea name="message" placeholder="Message"></textarea>
+							<textarea type="text" name="message" placeholder="Message"></textarea>
 						</div>
 					</div>
 					<div class="row">
 						<div class="12u">
 							<ul class="actions">
-								<li><a href="#" class="button form">Send Message</a></li>
+								<li><input type="image" class="button form" value="Send Message" /></li>
 							</ul>
 						</div>
 					</div>
