@@ -37,11 +37,12 @@ if (isset($_GET['action'])) {
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Chris Luk | Programmer, Designer, </title>
+		<title>Chris Luk | Developer</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic" rel="stylesheet" type="text/css" />
+        <link rel="icon" type="image/png" href="/images/gt-fav-icon.png"/>
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.poptrox.min.js"></script>
@@ -58,9 +59,9 @@ if (isset($_GET['action'])) {
 		<!-- Header -->
 			<section id="header">
 				<header>
-                    <img src="images/logo.PNG"/>
-					<h1>CHRIS LUK</h1>
-					<p>Software Developer</p>
+                    <img src="images/logo.PNG"/><br />
+					<h1>CHRIS LUK</h2>
+					<p>DEVELOPER</p>
 				</header>
 				<footer>
 					<a href="#banner" class="button style2 scrolly scrolly-centered">SCROLL</a>
@@ -74,12 +75,12 @@ if (isset($_GET['action'])) {
 				</header>
 				<p> Computer Scientist looking for a well established organization to work for. <br />
                     Aspiring eSports fanatic and manager. Avid League of Legends player. <br />
-                    Lover of coffee, dogs, and hitting up the bars. <br /> <br />
+                    Lover of software, coffee, dogs. <br /> <br />
                     
-				City of Wellesley, City of Boston.<br />
+				Boston, MA<br />
 				Email: luk@chrisluk.im</p>
 				<footer>
-					<a href="#first" class="button style2 scrolly">KEEP SCROLLING</a>
+					<a href="#first" class="button style2 scrolly">SCROLL</a>
 				</footer>
 			</section>
 		
@@ -88,10 +89,10 @@ if (isset($_GET['action'])) {
 				<a href="http://www.google.com" class="image full"><img src="images/pic01.jpg" alt="" /></a>
 				<div class="inner">
 					<header>
-						<h2>Hello There!<br />
+						<h2 style="color:white;">Hello There!<br />
 						PROJECT 1</h2>
 					</header>
-					<p>Why don't you just love this blank white space?</p>
+					<p style="color:white;">Why don't you just love this blank white space?</p>
 				</div>
 			</article>
 		
@@ -100,18 +101,18 @@ if (isset($_GET['action'])) {
 				<a href="http://www.google.com" class="image full"><img src="images/pic02.jpg" alt="" /></a>
 				<div class="inner">
 					<header>
-						<h2>Still Here?<br />
+						<h2 style="color:white;">Still Here?<br />
 						You must love me.</h2>
 					</header>
-					<p>Why is this picture black?</p>
+					<p style="color:white;">Why is this picture black?</p>
 				</div>
 			</article>
 		
 		<!-- Portfolio -->
 			<article class="container box style2">
 				<header>
-					<h2>This Latin is disturbing.</h2>
-					<p>I need to get rid of it.<br />
+					<h2 style="color:white;">This Latin is disturbing.</h2>
+					<p style="color:white;">I need to get rid of it.<br />
 					Cleaning up.</p>
 				</header>
 				<div class="inner gallery">
@@ -131,42 +132,43 @@ if (isset($_GET['action'])) {
 			</article>
 		
 		<!-- Contact -->
-			<article class="container box style3">
-				<header>
-					<h2 style="color:white;">CONTACT ME</h2>
-					<p style="color:white;">Send me a message!</p>
-				</header>
-				<form action="index.php?action=sendemail" method="POST" role="form">
-					<div class="row half">
-						<div class="6u"><input type="text" class="text" name="name" placeholder="Name" /></div>
-						<div class="6u"><input type="text" class="text" name="email" placeholder="Email" /></div>
-					</div>
-					<div class="row half">
-						<div class="12u">
-							<textarea type="text" name="message" placeholder="Message"></textarea>
-						</div>
-					</div>
-					<div class="row">
-						<div class="12u">
-							<ul class="actions">
-								<li><input type="submit" class="button style2 scrolly" value="    Send Message    " /></li>
-							</ul>
-						</div>
-					</div>
-				</form>
-			</article>
+        <section id="contact" style="padding-top: 1px">
+                <article class="container box style3">
+                    <header>
+                        <h2 style="color:white;">CONTACT ME</h2>
+                        <p style="color:white;">Eat Sleep Rave Repeat. What's your philosophy?</p>
+                    </header>
+                    <form action="index.php?action=sendemail" method="POST" role="form">
+                        <div class="row half">
+                            <div class="6u"><input type="text" class="text" name="name" placeholder="Name" /></div>
+                            <div class="6u"><input type="text" class="text" name="email" placeholder="Email" /></div>
+                        </div>
+                        <div class="row half">
+                            <div class="12u">
+                                <textarea type="text" name="message" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="12u">
+                                <ul class="actions">
+                                    <li><input type="submit" class="button style2 scrolly" value="    Send Message    " /></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </form>
+                </article>
+        </section>
 		<section id="footer">
 			<ul class="icons">
-				<li><a href="#" class="fa fa-twitter solo"><span>Twitter</span></a></li>
+				<li><a href="http://www.twitter.com" class="fa fa-twitter solo"><span>Twitter</span></a></li>
 				<li><a href="http://www.facebook.com/cel2971" class="fa fa-facebook solo"><span>Facebook</span></a></li>
-				<li><a href="luk@chrisluk.im" class="fa fa-gmail solo"><span>Email</span></a></li>
-				<li><a href="#" class="fa fa-pinterest solo"><span>Pinterest</span></a></li>
+				<li><a href="#contact" class="fa fa-envelope solo"><span>Email</span></a></li>
 				<li><a href="http://www.github.com/cluk2971" class="fa fa-github solo"><span>GitHub</span></a></li>
 				<li><a href="http://www.linkedin.com/pub/chris-luk/67/ba6/62a/" class="fa fa-linkedin solo"><span>LinkedIn</span></a></li>
 			</ul>
 			<div class="copyright">
 				<ul class="menu">
-					<li>&copy; CHRISLUK 2014</li>
+					<li>&copy; CL 2014</li>
 				</ul>
 			</div>
 		</section>
