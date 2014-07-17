@@ -15,6 +15,7 @@
 	body
 	{
 		background: #183026 url('../images/bg.jpg') no-repeat;
+        background-color: #000000;
 		background-size: cover;
 		background-position: center 0;
 		background-attachment: fixed;
@@ -543,8 +544,12 @@
 		
 			.box.style1
 			{
-				background: #fff;
+				background: #0F0F0E;
 				padding: 3em;
+                border-left: solid 1px #fff;
+                border-top: solid 1px #fff;
+                border-bottom: solid 1px #fff;
+                border-right: solid 1px #fff;
 			}
 			
 				.box.style1 .image
@@ -623,9 +628,13 @@
 				.box.style2 header
 				{
 					display: inline-block;
-					background: #fff;
 					padding: 2em 3em 2em 3em;
 					margin: 0;
+                    background: #0F0F0E;
+                    border-left: solid 1px #fff;
+                    border-top: solid 1px #fff;
+                    border-bottom: solid 1px #fff;
+                    border-right: solid 1px #fff;
 				}
 
 					.box.style2 header p
@@ -1263,6 +1272,7 @@
 	#footer
 	{
 		position: relative;
+        background-color: #000000;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
@@ -1278,20 +1288,20 @@
 			left: 50%;
 			height: 4.5em;
 			border-left: solid 1px #fff;
+            background-color: #000000;
 		}
 
 		#footer a
 		{
 			color: #fff;
 			text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
-			border-bottom-color: rgba(255,255,255,0.5);
+			border-bottom-color: #000001;
+            background-color: #000000;
 		}	
 		
 			#footer a:hover
 			{
 				color: #000001;
-				text-shadow: 0 0 0.5px rgba(69,200,159,0.25);
-				border-bottom-color: rgba(53,184,143,0.5);
 			}
 		
 		#footer .icons
