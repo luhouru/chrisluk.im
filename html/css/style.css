@@ -69,7 +69,7 @@
 
 	a
 	{
-		color: #35b88f;
+		color: #000001;
 		text-shadow: 0 0 0.5px rgba(53,184,143,0.25);
 		-moz-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
@@ -322,6 +322,7 @@
 			form textarea
 			{
 				-webkit-appearance: none;
+                color: #000001;
 				display: block;
 				border: 0;
 				background: #f5f5f5;
@@ -449,7 +450,7 @@
 			position: relative;
 			display: inline-block;
 			border: 0;
-			background: #35b88f;
+			background: #000001;
 			color: #fff;
 			text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 			cursor: pointer;
@@ -468,7 +469,7 @@
 
 			.button:hover
 			{
-				background: #45c89f;
+				background: #3a3939;
 			}
 		
 			.button.style2
@@ -678,8 +679,12 @@
 
 			.box.style3
 			{
-				background: #fff;
+				background: #0F0F0E;
 				padding: 3em;
+                border-left: solid 1px #fff;
+                border-top: solid 1px #fff;
+                border-bottom: solid 1px #fff;
+                border-right: solid 1px #fff;
 			}
 			
 				.box.style3 header
@@ -1284,7 +1289,7 @@
 		
 			#footer a:hover
 			{
-				color: #35b88f;
+				color: #000001;
 				text-shadow: 0 0 0.5px rgba(69,200,159,0.25);
 				border-bottom-color: rgba(53,184,143,0.5);
 			}
