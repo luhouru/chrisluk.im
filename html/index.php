@@ -37,7 +37,7 @@ if (isset($_GET['action'])) {
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Chris Luk | Designer, Coder, Gamer | Killin' It</title>
+		<title>Chris Luk | Programmer, Designer, </title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -72,12 +72,12 @@ if (isset($_GET['action'])) {
 				<header>
 					<h2>BRIEF</h2>
 				</header>
-				<p>PROGRAMMER | DESIGNER<br />
-                ELECTRONIC | MUSIC<br />
-                COFFEE | FANATIC<br />
-                HARDCORE | GAMER<br /><br />
-				Wellesley, MA | Boston, MA<br />
-				luk@chrisluk.im</p>
+				<p> Computer Scientist looking for a well established organization to work for. <br />
+                    Aspiring eSports fanatic and manager. Avid League of Legends player. <br />
+                    Lover of coffee, dogs, and hitting up the bars. <br /> <br />
+                    
+				City of Wellesley, City of Boston.<br />
+				Email: luk@chrisluk.im</p>
 				<footer>
 					<a href="#first" class="button style2 scrolly">KEEP SCROLLING</a>
 				</footer>
@@ -85,34 +85,34 @@ if (isset($_GET['action'])) {
 		
 		<!-- Feature 1 -->
 			<article id="first" class="container box style1 right">
-				<a href="http://ineedchemicalx.deviantart.com/art/Time-goes-by-too-fast-335982438" class="image full"><img src="images/pic01.jpg" alt="" /></a>
+				<a href="http://www.google.com" class="image full"><img src="images/pic01.jpg" alt="" /></a>
 				<div class="inner">
 					<header>
-						<h2>Lorem ipsum<br />
-						dolor sit amet</h2>
+						<h2>Hello There!<br />
+						PROJECT 1</h2>
 					</header>
-					<p>Tortor faucibus ullamcorper nec tempus purus sed penatibus. Lacinia pellentesque eleifend vitae est elit tristique velit tempus etiam.</p>
+					<p>Why don't you just love this blank white space?</p>
 				</div>
 			</article>
 		
 		<!-- Feature 2 -->
 			<article class="container box style1 left">
-				<a href="http://ineedchemicalx.deviantart.com/art/Kingdom-of-the-Wind-348268044" class="image full"><img src="images/pic02.jpg" alt="" /></a>
+				<a href="http://www.google.com" class="image full"><img src="images/pic02.jpg" alt="" /></a>
 				<div class="inner">
 					<header>
-						<h2>Mollis posuere<br />
-						lectus lacus</h2>
+						<h2>Still Here?<br />
+						You must love me.</h2>
 					</header>
-					<p>Rhoncus mattis egestas sed fusce sodales rutrum et etiam ullamcorper. Etiam egestas scelerisque ac duis magna lorem ipsum dolor.</p>
+					<p>Why is this picture black?</p>
 				</div>
 			</article>
 		
 		<!-- Portfolio -->
 			<article class="container box style2">
 				<header>
-					<h2>Magnis parturient</h2>
-					<p>Justo phasellus et aenean dignissim<br />
-					placerat cubilia purus lectus.</p>
+					<h2>This Latin is disturbing.</h2>
+					<p>I need to get rid of it.<br />
+					Cleaning up.</p>
 				</header>
 				<div class="inner gallery">
 					<div class="row flush">
