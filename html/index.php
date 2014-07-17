@@ -61,7 +61,7 @@ if (isset($_GET['action'])) {
 				<header>
                     <img src="images/logo.PNG"/>
 					<h1>CHRIS LUK</h1>
-					<p>Software Developer</p>
+					<p>DEVELOPER</p>
 				</header>
 				<footer>
 					<a href="#banner" class="button style2 scrolly scrolly-centered">SCROLL</a>
@@ -77,10 +77,10 @@ if (isset($_GET['action'])) {
                     Aspiring eSports fanatic and manager. Avid League of Legends player. <br />
                     Lover of coffee, dogs, and hitting up the bars. <br /> <br />
                     
-				City of Wellesley, City of Boston.<br />
-				Email: luk@chrisluk.im</p>
+				Boston, MA<br />
+				luk@chrisluk.im</p>
 				<footer>
-					<a href="#first" class="button style2 scrolly">KEEP SCROLLING</a>
+					<a href="#first" class="button style2 scrolly">SCROLL</a>
 				</footer>
 			</section>
 		
@@ -89,7 +89,7 @@ if (isset($_GET['action'])) {
 				<a href="http://www.google.com" class="image full"><img src="images/pic01.jpg" alt="" /></a>
 				<div class="inner">
 					<header>
-						<h2>Hello There!<br />
+						<h2 style="color:white;">Hello There!<br />
 						PROJECT 1</h2>
 					</header>
 					<p>Why don't you just love this blank white space?</p>
