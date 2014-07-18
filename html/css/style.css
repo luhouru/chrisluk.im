@@ -544,7 +544,6 @@
 		
 			.box.style1
 			{
-				background: #0F0F0E;
 				padding: 3em;
                 border-left: solid 1px #fff;
                 border-top: solid 1px #fff;
@@ -582,6 +581,7 @@
 				
 				.box.style1.right
 				{
+                     background: #0F0F0E;
 				}
 
 					.box.style1.right .image
@@ -602,6 +602,7 @@
 				
 				.box.style1.left
 				{
+                     background: #0c0e1d;
 				}
 
 					.box.style1.left .image
@@ -1220,7 +1221,7 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
-		background: #000101 url('images/banner.svg') bottom center no-repeat;
+		background: transparent;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
@@ -1296,7 +1297,7 @@
 			color: #fff;
 			text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 			border-bottom-color: #000001;
-            background-color: #000000;
+            background-color: transparent;
 		}	
 		
 			#footer a:hover
