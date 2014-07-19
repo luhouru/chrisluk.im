@@ -86,7 +86,7 @@ if (isset($_GET['action'])) {
 		
 		<!-- Feature 1 -->
 			<article id="first" class="container box style1 right">
-				<a href="http://www.chrisluk.im/ratriot" class="image full"><img src="images/pic01.jpg" alt="" /></a>
+				<a href="http://www.chrisluk.im/ratriot" class="image full"><img src="images/pic01.png" alt="" /></a>
 				<div class="inner">
 					<header>
 						<h2 style="color:white;">Rat<br />
