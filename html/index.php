@@ -41,7 +41,7 @@ if (isset($_GET['action'])) {
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic" rel="stylesheet" type="text/css" />
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,500' rel='stylesheet' type='text/css'>
         <link rel="shortcut icon" type="image/png" href="/images/gt-fav-icon.png"/>
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
@@ -85,7 +85,7 @@ if (isset($_GET['action'])) {
 			</section>
 		
 		<!-- Feature 1 -->
-			<article id="first" class="container box style1 right">
+			<!--<article id="first" class="container box style1 right">
 				<a href="http://www.chrisluk.im/ratriot" class="image full"><img src="images/pic01.png" alt="" /></a>
 				<div class="inner">
 					<header>
@@ -97,7 +97,7 @@ if (isset($_GET['action'])) {
 			</article>
 		
 		<!-- Feature 2 -->
-			<article class="container box style1 left">
+			<!--<article class="container box style1 left">
 				<a href="http://www.chrisluk.im/nashor" class="image full"><img src="images/pic02.png" alt="" /></a>
 				<div class="inner">
 					<header>
@@ -108,7 +108,7 @@ if (isset($_GET['action'])) {
 			</article>
 		
 		<!-- Portfolio -->
-			<article class="container box style2">
+			<article id="first" class="container box style2">
 				<header>
 					<h2 style="color:white;">PROJECTS</h2>
 					<p style="color:white;">See all the current projects<br />
@@ -116,7 +116,7 @@ if (isset($_GET['action'])) {
 				</header>
 				<div class="inner gallery">
 					<div class="row flush">
-						<div class="3u"><a href="images/fulls/05.jpg" class="image full"><img src="images/thumbs/05.jpg" alt="" title="Cherish" /></a></div>
+						<div class="3u"><a href="/nashor" class="image full"><img src="images/thumbs/05.jpg" alt="" title="NashorDB" /></a></div>
 						<div class="3u"><a href="images/fulls/06.jpg" class="image full"><img src="images/thumbs/06.jpg" alt="" title="Different." /></a></div>
 						<div class="3u"><a href="images/fulls/07.jpg" class="image full"><img src="images/thumbs/07.jpg" alt="" title="History was made here" /></a></div>
 						<div class="3u"><a href="images/fulls/08.jpg" class="image full"><img src="images/thumbs/08.jpg" alt="" title="People come and go and walk away" /></a></div>
