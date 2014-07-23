@@ -1,12 +1,8 @@
 <!DOCTYPE HTML>
-<!--
-	Twenty 1.0 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+<!--Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
 	<head>
-		<title>Twenty by HTML5 UP</title>
+		<title>Chris Luk | Developer</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -29,7 +25,7 @@
 	
 		<!-- Header -->
 			<header id="header" class="alt">
-				<h1 id="logo"><a href="index.html">Twenty <span>by HTML5 UP</span></a></h1>
+				<h1 id="logo"><a href="index.html">CHRISLUK <span>.IM</span></a></h1>
 				<nav id="nav">
 					<ul>
 						<li class="current"><a href="index.html">Welcome</a></li>
@@ -67,13 +63,13 @@
 					appropriate (<br />).
 				-->
 				<div class="inner">
-					
+					<img src="images/logo.PNG"/><br /><br />
 					<header>
-						<h2>TWENTY</h2>
+						<h2>CHRIS LUK</h2>
 					</header>
-					<p>This is <strong>Twenty</strong>, a free<br />
-					responsive template<br />
-					by <a href="http://html5up.net">HTML5 UP</a>.</p>
+					<p><strong>Developer | Designer | Machine</strong><br />
+					1.617.365.1997<br />
+					luk@chrisluk.im</a>.</p>
 					<footer>
 						<ul class="buttons vertical">
 							<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
