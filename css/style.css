@@ -68,7 +68,7 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #FFFFFF;
 			text-decoration: none;
 			border: 0;
 		}
@@ -623,7 +623,7 @@
 
 				#header nav ul li a {
 					border: solid 1px transparent;
-					color: inherit;
+					color: #3385D6;
 					display: inline-block;
 					padding: 0em 0.75em;
 					text-decoration: none;
@@ -728,14 +728,14 @@
 				-o-transition: none;
 				-ms-transition: none;
 				transition: none;
-				color: inherit;
+				color: #3385D6;
 				text-decoration: none;
 				padding: 0 1em;
 				border: 0;
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #131520;
 				color: white;
 			}
 
@@ -752,7 +752,7 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
+		background-color: #131520;
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
@@ -774,7 +774,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			background: rgba(255, 255, 255, 0.05);
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -821,6 +821,7 @@
 /* Main */
 
 	#main {
+        background-color: #000001;
 		background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
@@ -852,7 +853,7 @@
 
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
+		background-color: #131520;
 		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
@@ -869,7 +870,7 @@
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
+		background: #000001;
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;

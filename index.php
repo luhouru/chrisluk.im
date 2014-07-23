@@ -1,5 +1,12 @@
+<?php
+// ha
+?>
 <!DOCTYPE HTML>
-<!--Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<!--
+	Twenty 1.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>Chris Luk | Developer</title>
@@ -25,12 +32,11 @@
 	
 		<!-- Header -->
 			<header id="header" class="alt">
-				<h1 id="logo"><a href="index.html">CHRISLUK <span>.IM</span></a></h1>
+				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index.html">Welcome</a></li>
 						<li class="submenu">
-							<a href="">Layouts</a>
+							<a href="">MENU</a>
 							<ul>
 								<li><a href="left-sidebar.html">Left Sidebar</a></li>
 								<li><a href="right-sidebar.html">Right Sidebar</a></li>
@@ -42,13 +48,11 @@
 										<li><a href="#">Dolore Sed</a></li>
 										<li><a href="#">Consequat</a></li>
 										<li><a href="#">Lorem Magna</a></li>
-										<li><a href="#">Sed Magna</a></li>
-										<li><a href="#">Ipsum Nisl</a></li>
 									</ul>
 								</li>
 							</ul>
 						</li>
-						<li><a href="#" class="button special">Sign Up</a></li>
+                        <li class="current"><a href="index.php" class="scrolly">HOME</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -65,11 +69,11 @@
 				<div class="inner">
 					<img src="images/logo.PNG"/><br /><br />
 					<header>
-						<h2>CHRIS LUK</h2>
+						<h2>Chris Luk</h2>
 					</header>
 					<p><strong>Developer | Designer | Machine</strong><br />
 					1.617.365.1997<br />
-					luk@chrisluk.im</a>.</p>
+					luk@chrisluk.im</a></p>
 					<footer>
 						<ul class="buttons vertical">
 							<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
