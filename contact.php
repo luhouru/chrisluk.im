@@ -1,3 +1,41 @@
+<?php
+// START INDEX CODE // COPYRIGHT 2014 // CHRISLUK.IM //
+// SET TIMEZONE TO EAST COAST
+date_default_timezone_set('America/New_York');
+
+//require supporting functions
+require_once("/var/www/html/send_email.php");
+
+//check to see if there are any other actions they want
+//if not, show the general dashboard
+if (isset($_GET['action'])) {
+	switch($_GET['action']) {
+
+	case "sendemail":
+	if (!isset($_POST['name'])) {
+		$_POST['name'] = NULL;
+	}
+	if (!isset($_POST['email'])) {
+		$_POST['email'] = NULL;
+	}
+        if (!isset($_POST['subject'])) {
+		$_POST['subject'] = NULL;
+	}
+	if (!isset($_POST['message'])) {
+		$_POST['message'] = NULL;
+	}
+	$action = send_email($_POST['name'],$_POST['subject'],$_POST['email'],$_POST['message']);
+	break;
+        
+	default:
+	$action = "#";
+	break;
+	}
+    
+} else {
+}
+
+?>
 <!DOCTYPE HTML>
 <!--
 	Twenty 1.0 by HTML5 UP
@@ -6,7 +44,7 @@
 -->
 <html>
 	<head>
-		<title>Contact - Twenty by HTML5 UP</title>
+		<title>Contact Me</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -71,8 +109,7 @@
 					
 						<!-- Content -->
 							<div class="content">
-								<form>
-									<div class="row half no-collapse-1">
+								<form action="contact.php?action=sendemail" method="POST" role="form">									<div class="row half no-collapse-1">
 										<div class="6u">
 											<input type="text" name="name" placeholder="Name" />
 										</div>
@@ -93,7 +130,7 @@
 									<div class="row">
 										<div class="12u">
 											<ul class="buttons">
-												<li><a href="#" class="button special">Send Message</a></li>
+												<li><input type="submit" class="button special"></a></li>
 											</ul>
 										</div>
 									</div>
