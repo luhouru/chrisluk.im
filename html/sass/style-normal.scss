@@ -16,12 +16,16 @@
 		line-height: 1.5em;
 	}
 
-	header.major {
-		padding-bottom: 1.5em;
+	header {
+		&.major {
+			padding-bottom: 1.5em;
+		}
 	}
 
-	footer.major {
-		padding-top: 2em;
+	footer {
+		&.major {
+			padding-top: 2em;
+		}
 	}
 
 /* Wrapper */
@@ -29,16 +33,22 @@
 	.wrapper {
 		margin-bottom: 4em;
 		padding: 4em 3em;
-	}
-
-		.wrapper.style4 {
+		
+		&.style4 {
 			padding: 3em;
 		}
+	}
 
 /* Header */
 
-	#header nav ul li {
-		margin-left: 1em;
+	#header {
+		nav {
+			ul {
+				li {
+					margin-left: 1em;
+				}
+			}
+		}
 	}
 
 /* Banner */
@@ -53,7 +63,7 @@
 		padding: 4em;
 		background-attachment: scroll;
 	}
-
+	
 /* Footer */
 
 	#footer {
