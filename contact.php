@@ -48,6 +48,7 @@ if (isset($_GET['action'])) {
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
+		<link rel="shortcut icon" type="image/png" href="/images/gt-fav-icon.png"/>
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.dropotron.min.js"></script>
