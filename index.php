@@ -132,7 +132,7 @@
 									<header>
 										<h3>WEB DEVELOPMENT</h3>
 									</header>
-									<p>Worked with HTML5, CSS, and PHP, developing for web applications and sites.</p>
+									<p>Worked with HTML5, CSS, PHP, developing web applications and sites.</p>
 								</section>
 							
 							</div>
@@ -143,7 +143,7 @@
 									<header>
 										<h3>DATABASE DESIGN</h3>
 									</header>
-									<p>Knowledge with database query optimization, lookups, and indexing.</p>
+									<p>Knowledge with database query optimization, lookups, indexing.</p>
 								</section>
 							
 							</div>
@@ -154,7 +154,7 @@
 									<header>
 										<h3>QA ENGINEER</h3>
 									</header>
-									<p>Experience with test automation.</p>
+									<p>Experience with test automation, writing test cases, debugging.</p>
 								</section>
 							
 							</div>
@@ -172,7 +172,7 @@
 							<div class="6u">
 							
 								<section>
-									<a href="#" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="http://www.chrisluk.im/nashor" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
 									<header>
 										<h3>NashorDB</h3>
 									</header>
@@ -211,7 +211,7 @@
 									<header>
 										<h3>Project 4</h3>
 									</header>
-									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+									<p>I don't even know what this will be.</p>
 								</section>
 
 							</div>
@@ -219,7 +219,7 @@
 
 						<footer class="major">
 							<ul class="buttons">
-								<li><a href="#" class="button">See More</a></li>
+								<li><a href="#cta" class="button fit scrolly">See More</a></li>
 							</ul>
 						</footer>
 					
@@ -231,13 +231,13 @@
 			<section id="cta">
 			
 				<header>
-					<h2>Ready to do <strong>something</strong>?</h2>
-					<p>Proin a ullamcorper elit, et sagittis turpis integer ut fermentum.</p>
+					<h2>Are you <strong>entertained</strong>?</h2>
+					<p>Drop me a line! Tell me what's good.</p>
 				</header>
 				<footer>
 					<ul class="buttons">
-						<li><a href="#" class="button special">Take My Money</a></li>
-						<li><a href="#" class="button">LOL Wut</a></li>
+						<li><a href="#" class="button special">SAY HI!</a></li>
+						<li><a href="#header" class="button fit scrolly">BACK TO TOP</a></li>
 					</ul>
 				</footer>
 			
