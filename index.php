@@ -128,33 +128,33 @@
 							<div class="4u">
 							
 								<section>
-									<span class="icon feature fa-check"></span>
+									<span class="icon feature fa-html5"></span>
 									<header>
-										<h3>This is Something</h3>
+										<h3>WEB DEVELOPMENT</h3>
 									</header>
-									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+									<p>Worked with HTML5, CSS, and PHP, developing for web applications and sites.</p>
 								</section>
 							
 							</div>
 							<div class="4u">
 							
 								<section>
-									<span class="icon feature fa-check"></span>
+									<span class="icon feature fa-database"></span>
 									<header>
-										<h3>Also Something</h3>
+										<h3>DATABASE DESIGN</h3>
 									</header>
-									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+									<p>Knowledge with database query optimization, lookups, and indexing.</p>
 								</section>
 							
 							</div>
 							<div class="4u">
 							
 								<section>
-									<span class="icon feature fa-check"></span>
+									<span class="icon feature fa-gears"></span>
 									<header>
-										<h3>Probably Something</h3>
+										<h3>QA ENGINEER</h3>
 									</header>
-									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+									<p>Experience with test automation.</p>
 								</section>
 							
 							</div>
@@ -165,7 +165,7 @@
 					<section class="wrapper style3 container special">
 					
 						<header class="major">
-							<h2>Next look at this <strong>cool stuff</strong></h2>
+							<h2>My <strong>Portfolio</strong></h2>
 						</header>
 						
 						<div class="row">
