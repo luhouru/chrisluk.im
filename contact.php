@@ -64,7 +64,7 @@ if (isset($_GET['action'])) {
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	</head>
-	<body class="contact loading">
+	<body background="/images/banner.jpg" class="contact loading">
 	
 		<!-- Header -->
 			<header id="header">

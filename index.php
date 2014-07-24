@@ -78,11 +78,7 @@
 					</footer>
 				
 				</div>
-				
-			</section>
-		
-		<!-- Main -->
-			<article id="main">
+<article id="main">
 
 				<header class="special container">
 					<span class="icon fa-user"></span>
@@ -130,9 +126,9 @@
 								<section>
 									<span class="icon feature fa-html5"></span>
 									<header>
-										<h3>WEB DEVELOPMENT</h3>
+										<h2 style="color:#99C2FF;">WEB DEVELOPMENT</h2>
 									</header>
-									<p>Worked with HTML5, CSS, PHP, developing web applications and sites.</p>
+									<p style="color:white;">Worked with HTML5, CSS, PHP, developing web applications and sites.</p>
 								</section>
 							
 							</div>
@@ -141,9 +137,9 @@
 								<section>
 									<span class="icon feature fa-database"></span>
 									<header>
-										<h3>DATABASE DESIGN</h3>
+										<h2 style="color:#99C2FF;">DATABASE DESIGN</h2>
 									</header>
-									<p>Knowledge with database query optimization, lookups, indexing.</p>
+									<p style="color:white;">Knowledge with database query optimization, lookups, indexing.</p>
 								</section>
 							
 							</div>
@@ -152,9 +148,9 @@
 								<section>
 									<span class="icon feature fa-gears"></span>
 									<header>
-										<h3>QA ENGINEER</h3>
+										<h2 style="color:#99C2FF;">QA ENGINEER</h2>
 									</header>
-									<p>Experience with test automation, writing test cases, debugging.</p>
+									<p style="color:white;">Experience with test automation, writing test cases, debugging.</p>
 								</section>
 							
 							</div>
@@ -226,6 +222,10 @@
 					</section>
 					
 			</article>
+			</section>
+		
+		<!-- Main -->
+			
 
 		<!-- CTA -->
 			<section id="cta">
@@ -236,8 +236,8 @@
 				</header>
 				<footer>
 					<ul class="buttons">
-						<li><a href="#" class="button special">SAY HI!</a></li>
-						<li><a href="#header" class="button fit scrolly">BACK TO TOP</a></li>
+						<li><a href="/contact.php" class="button special">SAY HI!</a></li>
+						<li><a href="#header" class="button">BACK TO TOP</a></li>
 					</ul>
 				</footer>
 			
