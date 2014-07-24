@@ -98,8 +98,8 @@ if (isset($_GET['action'])) {
 
 				<header class="special container">
 					<span class="icon fa-envelope"></span>
-					<h2>Get In Touch</h2>
-					<p>Use the form below to give /dev/null a piece of your mind.</p>
+					<h2>Drop A Line</h2>
+					<p>Share your knowledge with me.</p>
 				</header>
 					
 				<!-- One -->
@@ -143,14 +143,14 @@ if (isset($_GET['action'])) {
 			<footer id="footer">
 			
 				<ul class="icons">
-					<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
-					<li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>
+					<li><a href="http://www.twitter.com" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="http://www.facebook.com/cel2971" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="http://www.linkedin.com" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
+					<li><a href="http://www.github.com/cluk2971" class="icon circle fa-github"><span class="label">Github</span></a></li>
 					<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
 				</ul>
 				
-				<span class="copyright">&copy; Untitled. All rights reserved. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+				<span class="copyright">&copy; CHRISLUK 2015</span>
 			
 			</footer>
 

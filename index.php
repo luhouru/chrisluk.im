@@ -2,17 +2,14 @@
 // ha
 ?>
 <!DOCTYPE HTML>
-<!--
-	Twenty 1.0 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+<!--Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
 	<head>
 		<title>Chris Luk | Developer</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
+		<link rel="shortcut icon" type="image/png" href="/images/gt-fav-icon.png"/>
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.dropotron.min.js"></script>
@@ -76,7 +73,7 @@
 					luk@chrisluk.im</a></p>
 					<footer>
 						<ul class="buttons vertical">
-							<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+							<li><a href="#main" class="button fit scrolly">WHO AM I</a></li>
 						</ul>
 					</footer>
 				
@@ -88,13 +85,10 @@
 			<article id="main">
 
 				<header class="special container">
-					<span class="icon fa-bar-chart-o"></span>
-					<h2>As this is my <strong>twentieth</strong> freebie for HTML5 UP<br />
-					I decided to give it a really creative name.</h2>
-					<p>Turns out <strong>Twenty</strong> was the best I could come up with. Anyway, lame name aside,<br />
-					it's minimally designed, fully responsive, built on HTML5/CSS3/<strong>skel</strong>, 
-					and, like all my stuff,<br />
-					released for free under the <a href="http://html5up.net/license">Creative Commons Attribution 3.0</a> license. Have fun!</p>
+					<span class="icon fa-user"></span>
+					<h1>PUT PICTURE OF ME HERE</h1>
+					<h2>About <strong>Me</strong><br /></h2>
+					<p>Having lived in Massachusetts my entire life, I've grown to love the city of Boston and its people. As a Computer Science/Biology major at Northeastern University, I've not only gained knowledge in the sciences and </p>
 				</header>
 					
 				<!-- One -->
@@ -103,12 +97,12 @@
 							<div class="8u">
 							
 								<header>
-									<h2>Behold the <strong>icons</strong> that visualize what you’re all about. or just take up space. your call bro.</h2>
+									<h2>Use these icons to your advantage.</h2>
 								</header>
-								<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu comteger ut fermentum lorem. Lorem ipsum dolor sit amet. Sed tristique purus vitae volutpat ultrices. eu elit eget commodo. Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo.</p>
+								<p>Thanks</p>
 								<footer>
 									<ul class="buttons">
-										<li><a href="#" class="button">Find Out More</a></li>
+										<li><a href="#attributes" class="button fit scrolly">View My Projects</a></li>
 									</ul>
 								</footer>
 							
@@ -129,7 +123,7 @@
 					</section>
 					
 				<!-- Two -->
-					<section class="wrapper style1 container special">
+					<section id=attributes class="wrapper style1 container special">
 						<div class="row">
 							<div class="4u">
 							
