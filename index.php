@@ -40,11 +40,11 @@
 								<li><a href="no-sidebar.html">No Sidebar</a></li>
 								<li><a href="contact.php">Contact</a></li>
 								<li class="submenu">
-									<a href="">Submenu</a>
+									<a href="">Favorites</a>
 									<ul>
-										<li><a href="#">Dolore Sed</a></li>
-										<li><a href="#">Consequat</a></li>
-										<li><a href="#">Lorem Magna</a></li>
+										<li><a href="http://www.lolking.net">Lolking</a></li>
+										<li><a href="http://www.lolnexus.net">Lolnexus</a></li>
+										<li><a href="http://www.google.com">Google</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -73,7 +73,7 @@
 					luk@chrisluk.im</a></p>
 					<footer>
 						<ul class="buttons vertical">
-							<li><a href="#main" class="button fit scrolly">WHO AM I</a></li>
+							<li><a href="#main" class="button fit scrolly">WHAT I DO</a></li>
 						</ul>
 					</footer>
 				
@@ -243,11 +243,11 @@
 			<footer id="footer">
 			
 				   <ul class="icons">
-					<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
-					<li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>
-					<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+					<li><a href="http://www.twitter.com/rukthenuke" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="http://www.facebook.com/cel2971" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://plus.google.com/u/0/113108445087994109941" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+					<li><a href="http://www.github.com/cluk2971" class="icon circle fa-github"><span class="label">Github</span></a></li>
+					<li><a href="http://www.linkedin.com/pub/chris-luk/67/ba6/62a/" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
 				    </ul>
 				
 				<span class="copyright">&copy; CHRISLUK 2015</span>
