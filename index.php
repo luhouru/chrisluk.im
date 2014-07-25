@@ -81,8 +81,7 @@
 <article id="main">
 
 				<header class="special container">
-					<span class="icon fa-user"></span>
-					<h1>PUT PICTURE OF ME HERE</h1>
+					<img src="images/me.png"/>
 					<h2>About <strong>Me</strong><br /></h2>
 					<p>Having lived in Massachusetts my entire life, I've grown to love the city of Boston and its people. As a Computer Science/Biology major at Northeastern University, I've not only gained knowledge in the sciences and </p>
 				</header>
