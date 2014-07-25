@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #0066FF;
+		color: #3385FF;
         background: transparent;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
@@ -541,8 +541,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: transparent;
-			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+			background: rgba(255, 255, 255, 0.02);
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
@@ -565,14 +564,12 @@
 				}
 
 		.wrapper.style3 {
-			background: transparent;
-            border: solid 1px #fff;
+			background: rgba(255, 255, 255, 0.02);
 			color: inherit;
 		}
 
 		.wrapper.style4 {
-			background: transparent;
-            border: solid 1px #fff;
+            background: rgba(255, 255, 255, 0.02);
 			color: inherit;
 			padding: 4em;
 		}
@@ -585,7 +582,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: #131520;
+		background: transparent;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
@@ -777,7 +774,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(255, 255, 255, 0.05);
+			background: rgba(255, 255, 255, 0.02);
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -825,7 +822,6 @@
 
 	#main {
         background-color: transparent;
-		background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
 		background-position: top left, top right, bottom left, bottom right, top center;
 		background-repeat: no-repeat;
 		background-size: 25em;
@@ -856,8 +852,6 @@
 
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #131520;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -873,8 +867,7 @@
 /* Footer */
 
 	#footer {
-		background: #000001;
-		color: #7c8081;
+		color: #FFFFFF;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}

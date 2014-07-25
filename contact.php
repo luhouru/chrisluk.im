@@ -98,8 +98,8 @@ if (isset($_GET['action'])) {
 
 				<header class="special container">
 					<span class="icon fa-envelope"></span>
-					<h2>Drop A Line</h2>
-					<p>Share your knowledge with me.</p>
+					<h2 style="color:#99C2FF;">Drop A Line</h2>
+					<p style="color:white;">Share your knowledge with me.</p>
 				</header>
 					
 				<!-- One -->

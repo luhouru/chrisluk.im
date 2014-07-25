@@ -68,7 +68,7 @@
 					<header>
 						<h2>Chris Luk</h2>
 					</header>
-					<p><strong>Developer | Designer | Machine</strong><br />
+					<p><strong>Professional Coffee Drinker</strong><br />
 					1.617.365.1997<br />
 					luk@chrisluk.im</a></p>
 					<footer>
@@ -81,9 +81,10 @@
 <article id="main">
 
 				<header class="special container">
-					<img src="images/me.png"/>
+					<span class="icon feature fa-user"></span>
 					<h2>About <strong>Me</strong><br /></h2>
-					<p>Having lived in Massachusetts my entire life, I've grown to love the city of Boston and its people. As a Computer Science/Biology major at Northeastern University, I've not only gained knowledge in the sciences and </p>
+					<p>Boston, Massachusetts<br/>
+                    </p>Developer
 				</header>
 					
 				<!-- One -->
@@ -92,12 +93,12 @@
 							<div class="8u">
 							
 								<header>
-									<h2>Use these icons to your advantage.</h2>
+									<h2>gg</h2>
 								</header>
-								<p>Thanks</p>
+								<p>bye</p>
 								<footer>
 									<ul class="buttons">
-										<li><a href="#attributes" class="button fit scrolly">View My Projects</a></li>
+										<li><a href="#attributes" class="button fit scrolly">PORTFOLIO</a></li>
 									</ul>
 								</footer>
 							
@@ -221,41 +222,44 @@
 					</section>
 					
 			</article>
-			</section>
-		
-		<!-- Main -->
-			
-
-		<!-- CTA -->
-			<section id="cta">
+            <section id="cta">
 			
 				<header>
-					<h2>Are you <strong>entertained</strong>?</h2>
+					<h2><br /><br /><br /></b>Are you <strong>entertained</strong>?</h2>
 					<p>Drop me a line! Tell me what's good.</p>
 				</header>
 				<footer>
 					<ul class="buttons">
-						<li><a href="/contact.php" class="button special">SAY HI!</a></li>
-						<li><a href="#header" class="button">BACK TO TOP</a></li>
+						<li><a href="/contact.php" class="button special">CONTACT</a></li>
+						<li><a href="#header" class="button">COVER</a></li>
 					</ul>
+
 				</footer>
+    
 			
 			</section>
 
 		<!-- Footer -->
 			<footer id="footer">
 			
-				<ul class="icons">
+				   <ul class="icons">
 					<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
 					<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
 					<li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>
 					<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
-				</ul>
+				    </ul>
 				
-				<span class="copyright">&copy; Untitled. All rights reserved. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+				<span class="copyright">&copy; CHRISLUK 2015</span>
 			
 			</footer>
+			</section>
+		
+		<!-- Main -->
+			
+
+		<!-- CTA -->
+			
 
 	</body>
 </html>
