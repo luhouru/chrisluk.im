@@ -774,7 +774,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(255, 255, 255, 0.02);
+			background: rgba(255, 255, 255, 0.05);
 			color: white;
 			display: inline-block;
 			opacity: 0;
