@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #3385FF;
+		color: #FFFFFF;
         background: transparent;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
@@ -162,7 +162,7 @@
 
 			header.special .icon:before {
 				font-size: 3.5em;
-				opacity: 0.35;
+				opacity: 1;
 			}
 
 	footer > :last-child {
@@ -346,6 +346,15 @@
 
 				.icon.circle.fa-github:hover {
 					background: #e1b89b;
+				}
+
+            .icon.circle.fa-linkedin {
+				background: #3385D6;
+				color: white;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #3385D6;
 				}
 
 			.icon.circle.fa-dribbble {
