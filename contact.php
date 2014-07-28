@@ -79,11 +79,11 @@ if (isset($_GET['action'])) {
 								<li><a href="no-sidebar.html">No Sidebar</a></li>
 								<li><a href="contact.php">Contact</a></li>
 								<li class="submenu">
-									<a href="">Submenu</a>
+									<a href="">Favorites</a>
 									<ul>
-										<li><a href="#">Dolore Sed</a></li>
-										<li><a href="#">Consequat</a></li>
-										<li><a href="#">Lorem Magna</a></li>
+										<li><a href="http://www.lolking.net">Lolking</a></li>
+										<li><a href="http://www.lolnexus.net">Lolnexus</a></li>
+										<li><a href="http://www.google.com">Google</a></li>
 									</ul>
 								</li>
 							</ul>

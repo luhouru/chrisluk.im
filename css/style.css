@@ -541,7 +541,7 @@
 		}
 
 		.wrapper.style2 {
-			background: rgba(255, 255, 255, 0.02);
+			background: rgba(255, 255, 255, 0.05);
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
@@ -564,12 +564,12 @@
 				}
 
 		.wrapper.style3 {
-			background: rgba(255, 255, 255, 0.02);
+			background: rgba(255, 255, 255, 0.05);
 			color: inherit;
 		}
 
 		.wrapper.style4 {
-            background: rgba(255, 255, 255, 0.02);
+            background: rgba(255, 255, 255, 0.05);
 			color: inherit;
 			padding: 4em;
 		}
