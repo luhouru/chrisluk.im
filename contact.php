@@ -74,9 +74,9 @@ if (isset($_GET['action'])) {
 						<li class="submenu">
 							<a href="">MENU</a>
 							<ul>
+                                <li><a href="overview.php">Overview</a></li>
 								<li><a href="left-sidebar.html">Left Sidebar</a></li>
 								<li><a href="right-sidebar.html">Right Sidebar</a></li>
-								<li><a href="no-sidebar.html">No Sidebar</a></li>
 								<li><a href="contact.php">Contact</a></li>
 								<li class="submenu">
 									<a href="">Favorites</a>

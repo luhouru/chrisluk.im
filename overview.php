@@ -1,12 +1,10 @@
+<?php
+?>
 <!DOCTYPE HTML>
-<!--
-	Twenty 1.0 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+<!--For personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
 	<head>
-		<title>No Sidebar - Twenty by HTML5 UP</title>
+		<title>Overview: ChrisLuk Dot Im</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -29,10 +27,9 @@
 	
 		<!-- Header -->
 			<header id="header">
-				<h1 id="logo"><a href="index.html">Twenty <span>by HTML5 UP</span></a></h1>
+				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index.html">Welcome</a></li>
 						<li class="submenu">
 							<a href="">Layouts</a>
 							<ul>
@@ -52,7 +49,7 @@
 								</li>
 							</ul>
 						</li>
-						<li><a href="#" class="button special">Sign Up</a></li>
+                        <li class="current"><a href="overview.php">OVERVIEW</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -62,8 +59,8 @@
 
 				<header class="special container">
 					<span class="icon fa-mobile"></span>
-					<h2>And finally there's <strong>No Sidebar</strong></h2>
-					<p>Where that in the center faces the nameless horrors alone.</p>
+					<h2>Overview:<strong> My Story</strong></h2>
+					<p>The non-chalant, DGAF, highlight of my life.</p>
 				</header>
 					
 				<!-- One -->
@@ -74,9 +71,9 @@
 								<section>
 									<a href="#" class="image feature"><img src="images/pic04.jpg" alt="" /></a>
 									<header>
-										<h3>Dolore Amet Consequat</h3>
+										<h3>CHRIS LUK</h3>
 									</header>
-									<p>Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
+									<p>Grew up in Wellesley, MA. A beautiful town.</p>
 									<p>Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan. </p>
 									<p>In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus, non hendrerit ipsum arcu tristique est.</p>
 								</section>
