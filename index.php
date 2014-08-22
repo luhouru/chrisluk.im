@@ -205,7 +205,7 @@
             <section id="cta">
 			
 				<header>
-					<h2><br /><br /><br /></b>Are you <strong>entertained</strong>?</h2>
+					<h2><br /></b>Are you <strong>entertained</strong>?</h2>
 					<p>Drop me a line! Tell me what's good!</p>
 				</header>
 				<footer>
@@ -217,22 +217,17 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</footer>
                 <br><br><br><br>
-                <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br><br>
-    
-			
+                <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br>
 			</section>
-
 		<!-- Footer -->
-			<footer id="footer">
-			
+			<footer id="footer">	
 				   <ul class="icons">
 					<li><a href="http://www.twitter.com/rukthenuke" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="http://www.facebook.com/cel2971" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
 					<li><a href="https://plus.google.com/u/0/113108445087994109941" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
 					<li><a href="http://www.github.com/cluk2971" class="icon circle fa-github"><span class="label">Github</span></a></li>
 					<li><a href="http://www.linkedin.com/pub/chris-luk/67/ba6/62a/" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
-				    </ul>
-				
+				    </ul>			
 				<span class="copyright">&copy; CHRISLUK 2015</span>
 			
 			</footer>
