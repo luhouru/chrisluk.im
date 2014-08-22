@@ -5,7 +5,7 @@
 <!--Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
 	<head>
-		<title>Chris Luk | Developer</title>
+		<title>Chris Luk Dot Im</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -35,16 +35,13 @@
 						<li class="submenu">
 							<a href="">MENU</a>
 							<ul>
-								<li><a href="left-sidebar.html">Left Sidebar</a></li>
-								<li><a href="right-sidebar.html">Right Sidebar</a></li>
-								<li><a href="no-sidebar.php">No Sidebar</a></li>
 								<li><a href="contact.php">Contact</a></li>
 								<li class="submenu">
 									<a href="">Favorites</a>
 									<ul>
-										<li><a href="http://www.lolking.net">Lolking</a></li>
-										<li><a href="http://www.lolnexus.net">Lolnexus</a></li>
-										<li><a href="http://www.google.com">Google</a></li>
+										<li><a href="http://www.lolking.net">LOLKING</a></li>
+										<li><a href="http://www.lolnexus.net">LOLNEXUS</a></li>
+										<li><a href="http://op.gg">OP.GG</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -63,13 +60,12 @@
 					automatically wrap lines, so be sure to use line breaks where
 					appropriate (<br />).
 				-->
-                <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br><br>
+                <img src="images/logo.PNG"/><br /><br />
 				<div class="inner">
-					<img src="images/logo.PNG"/><br /><br />
 					<header>
 						<h2>Chris Luk</h2>
 					</header>
-					<p><strong>Professional Coffee Drinker</strong><br />
+					<p><strong>Software Developer</strong><br />
 					1.617.365.1997<br />
 					luk@chrisluk.im</a></p>
 					<footer>
@@ -237,6 +233,8 @@
                     <a class="twitter-timeline" href="https://twitter.com/rukthenuke" data-widget-id="500646003737767937">Tweets by @rukthenuke</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</footer>
+    
+                <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br><br>
     
 			
 			</section>
