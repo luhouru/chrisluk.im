@@ -85,7 +85,7 @@
 								<header>
 									<h2 align="left">MY <strong>STORY</strong></h2>
 								</header>
-								<p align="left">My name is Chris Luk. I attend Northeastern University as a Computer Science major and am currently set to graduate the summer of 2016. Most of the days of my life I spend on the computer, as the life of a software developer isn't an easy one. There is an insane amount of information and technology out there that I seek to learn slowly but surely. Despite how much I want to achieve this goal, I have to lay back and relax for a while, go out with friends, and keep up with professional electronic Sports, a hobby of mine. I see myself using my passion for programming as an opportunity to dive straight into the culture and high energy environment that is eSports. gg no re?</p>
+								<p align="left">My name is Chris Luk. I attend Northeastern University as a Computer Science major and am currently set to graduate the summer of 2016. Most of the days of my life I spend on the computer, as the life of a software developer isn't an easy one. There is an insane amount of information and technology out there that I seek to learn slowly but surely. Despite how much I want to achieve this goal, I have to lay back and relax for a bit in order to keep me sane. I love to go out with friends and keep up with professional electronic Sports, a hobby of mine. I see myself using my passion for programming as an opportunity to dive straight into the culture and high energy environment that is eSports. May my dream come true.</p>
 								<footer>
 									<ul align="left" class="buttons">
 										<li><a href="#attributes" class="button fit scrolly">VIEW MY PROJECT</a></li>
@@ -145,7 +145,7 @@
 						</header>
 						
 						<div class="row">
-							<div class="6u">
+							<div class="12u">
 							
 								<section>
 									<a href="http://www.chrisluk.im/nashor" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
@@ -156,7 +156,7 @@
 								</section>
 
 							</div>
-							<div class="6u">
+							<!--<div class="6u">
 							
 								<section>
 									<a href="#" class="image feature"><img src="images/pic02.jpg" alt="" /></a>
@@ -166,9 +166,9 @@
 									<p>TBC</p>
 								</section>
 
-							</div>
+							</div>-->
 						</div>
-						<div class="row">
+						<!--<div class="row">
 							<div class="6u">
 							
 								<section>
@@ -191,11 +191,11 @@
 								</section>
 
 							</div>
-						</div>
+						</div>-->
 
 						<footer class="major">
 							<ul class="buttons">
-								<li><a href="#cta" class="button fit scrolly">See More</a></li>
+								<li><a href="#cta" class="button fit scrolly">MORE</a></li>
 							</ul>
 						</footer>
 					
