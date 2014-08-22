@@ -73,17 +73,16 @@ if (isset($_GET['action'])) {
 					<ul>
 						<li class="submenu">
 							<a href="">MENU</a>
-							<ul>
+							<ul><!--
                                 <li><a href="overview.php">Overview</a></li>
 								<li><a href="left-sidebar.html">Left Sidebar</a></li>
-								<li><a href="right-sidebar.html">Right Sidebar</a></li>
-								<li><a href="contact.php">Contact</a></li>
+								<li><a href="right-sidebar.html">Right Sidebar</a></li>-->
 								<li class="submenu">
 									<a href="">Favorites</a>
 									<ul>
-										<li><a href="http://www.lolking.net">Lolking</a></li>
-										<li><a href="http://www.lolnexus.net">Lolnexus</a></li>
-										<li><a href="http://www.google.com">Google</a></li>
+										<li><a href="http://www.lolking.net">LOLKING</a></li>
+										<li><a href="http://www.lolnexus.net">LOLNEXUS</a></li>
+										<li><a href="http://op.gg">OP.GG</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -98,8 +97,8 @@ if (isset($_GET['action'])) {
 
 				<header class="special container">
 					<span class="icon fa-envelope"></span>
-					<h2 style="color:#99C2FF;">Drop A Line</h2>
-					<p style="color:white;">Share your knowledge with me.</p>
+					<h2 style="color:#99C2FF;">CONTACT</h2>
+					<p style="color:white;">What's up?</p>
 				</header>
 					
 				<!-- One -->
@@ -143,11 +142,10 @@ if (isset($_GET['action'])) {
 			<footer id="footer">
 			
 				<ul class="icons">
-					<li><a href="http://www.twitter.com" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="http://www.twitter.com/rukthenuke" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="http://www.facebook.com/cel2971" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="http://www.linkedin.com" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
+					<li><a href="http://www.linkedin.com/in/chriseluk" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
 					<li><a href="http://www.github.com/cluk2971" class="icon circle fa-github"><span class="label">Github</span></a></li>
-					<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
 				</ul>
 				
 				<span class="copyright">&copy; CHRISLUK 2015</span>

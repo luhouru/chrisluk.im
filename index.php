@@ -53,13 +53,6 @@
 
 		<!-- Banner -->		
 			<section id="banner">
-				
-				<!--
-					".inner" is set up as an inline-block so it automatically expands
-					in both directions to fit whatever's inside it. This means it won't
-					automatically wrap lines, so be sure to use line breaks where
-					appropriate (<br />).
-				-->
                 <img src="images/logo.PNG"/><br /><br />
 				<div class="inner">
 					<header>
@@ -70,7 +63,7 @@
 					luk@chrisluk.im</a></p>
 					<footer>
 						<ul class="buttons vertical">
-							<li><a href="#main" class="button fit scrolly">WHAT I DO</a></li>
+							<li><a href="#main" class="button fit scrolly">ABOUT</a></li>
 						</ul>
 					</footer>
 				
@@ -79,9 +72,9 @@
 
 				<header class="special container">
 					<span class="icon feature fa-user"></span>
-					<h2>About <strong>Me</strong><br /></h2>
-					<p>Boston, Massachusetts<br/>
-                    </p>Developer
+					<h2>BRIEF <strong>SYNOPSIS</strong><br /></h2>
+					<p>Born and raised in Wellesley, MA, currently reside in Boston, MA. I love waking up to a warm cup of coffee, sitting down at my desk, and coding the day away. On the side I enjoy playing League of Legends and going out and enjoying the beautiful thing that is life.
+                    </p>
 				</header>
 					
 				<!-- One -->
@@ -90,27 +83,17 @@
 							<div class="8u">
 							
 								<header>
-									<h2>gg</h2>
+									<h2 align="left">MY <strong>STORY</strong></h2>
 								</header>
-								<p>bye</p>
+								<p align="left">My name is Chris Luk. I attend Northeastern University as a Computer Science major and am currently set to graduate the summer of 2016. Most of the days of my life I spend on the computer, as the life of a software developer isn't an easy one. There is an insane amount of information and technology out there that I seek to learn slowly but surely. Despite how much I want to achieve this goal, I have to lay back and relax for a while, go out with friends, and keep up with professional electronic Sports, a hobby of mine. I see myself using my passion for programming as an opportunity to dive straight into the culture and high energy environment that is eSports. gg no re?</p>
 								<footer>
-									<ul class="buttons">
-										<li><a href="#attributes" class="button fit scrolly">PORTFOLIO</a></li>
+									<ul align="left" class="buttons">
+										<li><a href="#attributes" class="button fit scrolly">VIEW MY PROJECT</a></li>
 									</ul>
 								</footer>
 							
 							</div>
 							<div class="4u skel-cell-important">
-							
-								<ul class="feature-icons">
-									<li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
-									<li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
-									<li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
-									<li><span class="icon fa-inbox"><span class="label">Feature 4</span></span></li>
-									<li><span class="icon fa-lock"><span class="label">Feature 5</span></span></li>
-									<li><span class="icon fa-cog"><span class="label">Feature 6</span></span></li>
-								</ul>
-							
 							</div>				
 						</div>
 					</section>
@@ -223,7 +206,7 @@
 			
 				<header>
 					<h2><br /><br /><br /></b>Are you <strong>entertained</strong>?</h2>
-					<p>Drop me a line! Tell me what's good.</p>
+					<p>Drop me a line! Tell me what's good!</p>
 				</header>
 				<footer>
 					<ul class="buttons">
@@ -233,7 +216,7 @@
                     <a class="twitter-timeline" href="https://twitter.com/rukthenuke" data-widget-id="500646003737767937">Tweets by @rukthenuke</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</footer>
-    
+                <br><br><br><br>
                 <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br><br>
     
 			
