@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #3385FF;
+		color: #3385D6;
         background: transparent;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
@@ -162,7 +162,7 @@
 
 			header.special .icon:before {
 				font-size: 3.5em;
-				opacity: 0.35;
+				opacity: 1;
 			}
 
 	footer > :last-child {
@@ -348,6 +348,15 @@
 					background: #e1b89b;
 				}
 
+            .icon.circle.fa-linkedin {
+				background: #3385D6;
+				color: white;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #3385D6;
+				}
+
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
 				color: white;
@@ -515,7 +524,7 @@
 		}
 
 			.button.special:hover {
-				background: #ff4646 !important;
+				background: #3385D6 !important;
 				border-color: white !important;
 			}
 
@@ -541,7 +550,7 @@
 		}
 
 		.wrapper.style2 {
-			background: rgba(255, 255, 255, 0.02);
+			background: rgba(255, 255, 255, 0.05);
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
@@ -564,12 +573,12 @@
 				}
 
 		.wrapper.style3 {
-			background: rgba(255, 255, 255, 0.02);
+			background: rgba(255, 255, 255, 0.05);
 			color: inherit;
 		}
 
 		.wrapper.style4 {
-            background: rgba(255, 255, 255, 0.02);
+            background: rgba(255, 255, 255, 0.05);
 			color: inherit;
 			padding: 4em;
 		}
@@ -774,7 +783,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(255, 255, 255, 0.02);
+			background: rgba(255, 255, 255, 0.05);
 			color: white;
 			display: inline-block;
 			opacity: 0;
