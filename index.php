@@ -37,7 +37,7 @@
 							<ul>
 								<li><a href="left-sidebar.html">Left Sidebar</a></li>
 								<li><a href="right-sidebar.html">Right Sidebar</a></li>
-								<li><a href="no-sidebar.html">No Sidebar</a></li>
+								<li><a href="no-sidebar.php">No Sidebar</a></li>
 								<li><a href="contact.php">Contact</a></li>
 								<li class="submenu">
 									<a href="">Favorites</a>
@@ -63,6 +63,7 @@
 					automatically wrap lines, so be sure to use line breaks where
 					appropriate (<br />).
 				-->
+                <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br><br>
 				<div class="inner">
 					<img src="images/logo.PNG"/><br /><br />
 					<header>
@@ -232,8 +233,9 @@
 					<ul class="buttons">
 						<li><a href="/contact.php" class="button special">CONTACT</a></li>
 						<li><a href="#header" class="button">COVER</a></li>
-					</ul>
-
+					</ul><br><br><br>
+                    <a class="twitter-timeline" href="https://twitter.com/rukthenuke" data-widget-id="500646003737767937">Tweets by @rukthenuke</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</footer>
     
 			
