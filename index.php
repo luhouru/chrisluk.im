@@ -108,7 +108,7 @@
 									<header>
 										<h2 style="color:#99C2FF;">WEB DEVELOPMENT</h2>
 									</header>
-									<p style="color:white;">Worked with HTML5, CSS, PHP, developing web applications and sites.</p>
+									<p style="color:white;">Worked with PHP, Symfony, Twig, HTML to develop web applications and products.</p>
 								</section>
 							
 							</div>
@@ -141,7 +141,7 @@
 					<section class="wrapper style3 container special">
 					
 						<header class="major">
-							<h2>My <strong>Portfolio</strong></h2>
+							<h2>MY <strong>PORTFOLIO</strong></h2>
 						</header>
 						
 						<div class="row">
@@ -205,8 +205,8 @@
             <section id="cta">
 			
 				<header>
-					<h2><br /></b>Are you <strong>entertained</strong>?</h2>
-					<p>Drop me a line! Tell me what's good!</p>
+					<h2><br /></b>ARE YOU<strong>ENTERTAINED</strong>?</h2>
+					<p>Drop me a line! Ask me what's up!</p>
 				</header>
 				<footer>
 					<ul class="buttons">
