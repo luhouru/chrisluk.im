@@ -73,7 +73,7 @@
 				<header class="special container">
 					<span class="icon feature fa-user"></span>
 					<h2>BRIEF <strong>SYNOPSIS</strong><br /></h2>
-					<p>Born and raised in Wellesley, MA, currently reside in Boston, MA. I love waking up to a warm cup of coffee, sitting down at my desk, and coding the day away. On the side I enjoy playing League of Legends and going out and enjoying the beautiful thing that is life.
+					<p>Born and raised in Wellesley, MA, currently reside in Boston, MA. I love waking up to a warm cup of coffee, sitting down at my desk, and coding the day away. On the side I enjoy dining at restaurants with some fine wine, playing League of Legends, and listening to EDM. I pretty much eat, sleep, rave, repeat.
                     </p>
 				</header>
 					
@@ -85,7 +85,7 @@
 								<header>
 									<h2 align="left">MY <strong>STORY</strong></h2>
 								</header>
-								<p align="left">My name is Chris Luk, currently attending Northeastern University as a Computer Science major and am set to graduate the summer of 2016. I spend endless time on the computer, whether I'm at my job, sitting at home playing video games, or learning about the world. There is an insane amount of information and technology out there that I seek to learn slowly but surely. On the other hand, I have to lay back, relax, and drink some Dunkin' Donuts iced coffee in order to keep me sane. I enjoy going out with friends and keeping up with professional League of Legends, a hobby of mine. I see myself using my passion for programming as an opportunity to immerse myself into the culture and high energy environment that is eSports. Am I wrong for trying to reach the things that I can't see?</p>
+								<p align="left">Hi. Currently attending Northeastern University as a Computer Science major. I am set to graduate the summer of 2016. Most of my time I spend developing software at my job, sitting at home playing video games, or longboarding down Route 9. People would describe me as carefree, open-minded, easy-going, and self-confident. When I stress about why my code fails to compile, I have to lay back, relax, and drink some Dunkin' Donuts iced coffee in order to keep me sane. On the weekends I enjoy going out with friends and keeping up with professional League of Legends. I see myself using my passion for programming as an opportunity to immerse myself into the culture and high energy environment that is eSports. Am I wrong for trying to reach the things that I can't see?</p>
 								<footer>
 									<ul align="left" class="buttons">
 										<li><a href="#attributes" class="button fit scrolly">VIEW LATEST PROJECT</a></li>
