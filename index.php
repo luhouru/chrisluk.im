@@ -85,10 +85,10 @@
 								<header>
 									<h2 align="left">MY <strong>STORY</strong></h2>
 								</header>
-								<p align="left">My name is Chris Luk. I attend Northeastern University as a Computer Science major and am currently set to graduate the summer of 2016. Most of the days of my life I spend on the computer, as the life of a software developer isn't an easy one. There is an insane amount of information and technology out there that I seek to learn slowly but surely. Despite how much I want to achieve this goal, I have to lay back and relax for a bit in order to keep me sane. I love to go out with friends and keep up with professional electronic Sports, a hobby of mine. I see myself using my passion for programming as an opportunity to dive straight into the culture and high energy environment that is eSports. May my dream come true.</p>
+								<p align="left">My name is Chris Luk, currently attending Northeastern University as a Computer Science major and am set to graduate the summer of 2016. I spend endless time on the computer, whether I'm at my job, sitting at home playing video games, or learning about the world. There is an insane amount of information and technology out there that I seek to learn slowly but surely. On the other hand, I have to lay back, relax, and drink some Dunkin' Donuts iced coffee in order to keep me sane. I enjoy going out with friends and keeping up with professional League of Legends, a hobby of mine. I see myself using my passion for programming as an opportunity to immerse myself into the culture and high energy environment that is eSports. Am I wrong for trying to reach the things that I can't see?</p>
 								<footer>
 									<ul align="left" class="buttons">
-										<li><a href="#attributes" class="button fit scrolly">VIEW MY PROJECT</a></li>
+										<li><a href="#attributes" class="button fit scrolly">VIEW LATEST PROJECT</a></li>
 									</ul>
 								</footer>
 							
