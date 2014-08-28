@@ -106,7 +106,7 @@
 								<section>
 									<span class="icon feature fa-html5"></span>
 									<header>
-										<h2 style="color:#99C2FF;">WEB DEVELOPMENT</h2>
+										<h2 style="color:#FF9999;">WEB DEVELOPMENT</h2>
 									</header>
 									<p style="color:white;">Worked with PHP, Symfony, Twig, HTML to develop web applications and products.</p>
 								</section>
@@ -117,7 +117,7 @@
 								<section>
 									<span class="icon feature fa-database"></span>
 									<header>
-										<h2 style="color:#99C2FF;">DATABASE DESIGN</h2>
+										<h2 style="color:#FF9999;">DATABASE DESIGN</h2>
 									</header>
 									<p style="color:white;">Knowledge with database query optimization, lookups, indexing.</p>
 								</section>
@@ -128,7 +128,7 @@
 								<section>
 									<span class="icon feature fa-gears"></span>
 									<header>
-										<h2 style="color:#99C2FF;">QA ENGINEER</h2>
+										<h2 style="color:#FF9999;">QA ENGINEER</h2>
 									</header>
 									<p style="color:white;">Experience with test automation, writing test cases, debugging.</p>
 								</section>
