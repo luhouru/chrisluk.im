@@ -44,7 +44,7 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll;
+		background-attachment: fixed;
 	}
 
 /* CTA */

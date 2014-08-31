@@ -28,8 +28,9 @@
 	<body class="index loading">
 	
 		<!-- Header -->
+            <br><br>
 			<header id="header" class="alt">
-				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM</span></a></h1>
+				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM  </span></a><img src="images/logo.PNG" style="padding-top: 1px; padding-left: 1px" height="22" width="22"/></h1>
 				<nav id="nav">
 					<ul>
 						<li class="submenu">
@@ -53,7 +54,6 @@
 
 		<!-- Banner -->		
 			<section id="banner">
-                <img src="images/logo.PNG"/><br /><br />
 				<div class="inner">
 					<header>
 						<h2>Chris Luk</h2>
@@ -63,13 +63,13 @@
 					luk@chrisluk.im</a></p>
 					<footer>
 						<ul class="buttons vertical">
-							<li><a href="#main" class="button fit scrolly">ABOUT</a></li>
+							<li><a href="#main" class="button special fit scrolly">ABOUT</a></li>
 						</ul>
 					</footer>
 				
 				</div>
 <article id="main">
-
+                <br><br><br><br><br><br>
 				<header class="special container">
 					<span class="icon feature fa-user"></span>
 					<h2>BRIEF <strong>SYNOPSIS</strong><br /></h2>
@@ -78,6 +78,7 @@
 				</header>
 					
 				<!-- One -->
+                    <br><br><br><br><br><br>
 					<section class="wrapper style2 container special-alt">
 						<div class="row half">
 							<div class="8u">
@@ -88,25 +89,32 @@
 								<p align="left">Hi. Currently attending Northeastern University as a Computer Science major. I am set to graduate the summer of 2016. Most of my time I spend developing software at my job, sitting at home playing video games, or longboarding down Route 9. People would describe me as carefree, open-minded, easy-going, and self-confident. When I stress about why my code fails to compile, I have to lay back, relax, and drink some Dunkin' Donuts iced coffee in order to keep me sane. On the weekends I enjoy going out with friends and keeping up with professional League of Legends. I see myself using my passion for programming as an opportunity to immerse myself into the culture and high energy environment that is eSports. Am I wrong for trying to reach the things that I can't see?</p>
 								<footer>
 									<ul align="left" class="buttons">
-										<li><a href="#attributes" class="button fit scrolly">VIEW LATEST PROJECT</a></li>
+										<li><a href="#attributes" class="button special fit scrolly">VIEW MY SKILLS</a></li>
 									</ul>
 								</footer>
 							
 							</div>
+                            <!--<div class="1u skel-cell-important">
+                            <br>
+                            </div>-->
 							<div class="4u skel-cell-important">
+                            <br><br>
+                            <img src="images/faceq.png"/><br /><br />
 							</div>				
 						</div>
 					</section>
 					
 				<!-- Two -->
+                    
 					<section id=attributes class="wrapper style1 container special">
 						<div class="row">
+                            <br><br><br><br><br><br><br><br><br><br>
 							<div class="4u">
 							
 								<section>
 									<span class="icon feature fa-html5"></span>
 									<header>
-										<h2 style="color:#FF9999;">WEB DEVELOPMENT</h2>
+										<h2 style="color:#AFF3E0;">WEB DEVELOPMENT</h2>
 									</header>
 									<p style="color:white;">Worked with PHP, Symfony, Twig, HTML to develop web applications and products.</p>
 								</section>
@@ -117,9 +125,9 @@
 								<section>
 									<span class="icon feature fa-database"></span>
 									<header>
-										<h2 style="color:#FF9999;">DATABASE DESIGN</h2>
+										<h2 style="color:#AFF3E0;">DATABASE DESIGN</h2>
 									</header>
-									<p style="color:white;">Knowledge with database query optimization, lookups, indexing.</p>
+									<p style="color:white;">Knowledge in database optimization, schema comparison, merges, indexing, and scalability.</p>
 								</section>
 							
 							</div>
@@ -128,18 +136,17 @@
 								<section>
 									<span class="icon feature fa-gears"></span>
 									<header>
-										<h2 style="color:#FF9999;">QA ENGINEER</h2>
+										<h2 style="color:#AFF3E0;">QA ENGINEER</h2>
 									</header>
-									<p style="color:white;">Experience with test automation, writing test cases, debugging.</p>
+									<p style="color:white;">Experience with test automation, writing test cases, debugging, and using project management tools</p>
 								</section>
 							
 							</div>
 						</div>
 					</section>
-					
+					<br><br><br><br><br><br><br><br><br>
 				<!-- Three -->
 					<section class="wrapper style3 container special">
-					
 						<header class="major">
 							<h2>MY <strong>PORTFOLIO</strong></h2>
 						</header>
@@ -195,7 +202,7 @@
 
 						<footer class="major">
 							<ul class="buttons">
-								<li><a href="#cta" class="button fit scrolly">MORE</a></li>
+								<li><a href="#cta" class="button special fit scrolly">MORE</a></li>
 							</ul>
 						</footer>
 					
@@ -211,7 +218,7 @@
 				<footer>
 					<ul class="buttons">
 						<li><a href="/contact.php" class="button special">CONTACT</a></li>
-						<li><a href="#header" class="button">COVER</a></li>
+						<li><a href="#header" class="button special">COVER</a></li>
 					</ul><br><br><br>
                     <a class="twitter-timeline" href="https://twitter.com/rukthenuke" data-widget-id="500646003737767937">Tweets by @rukthenuke</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

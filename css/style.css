@@ -368,7 +368,7 @@
 
 		.icon.feature {
 			cursor: default;
-            color: #F14848;
+            color: #8EC8F7;
 			display: block;
 			margin: 0 0 1.5em 0;
 			text-align: center;
@@ -520,11 +520,10 @@
 		.button.special {
 			background: #131520;
 			border-color: white;
-			color: white !important;
 		}
 
 			.button.special:hover {
-				background: #3385D6 !important;
+				background: #0677c2 !important;
 				border-color: white !important;
 			}
 
@@ -550,7 +549,7 @@
 		}
 
 		.wrapper.style2 {
-			background: rgba(255, 255, 255, 0.05);
+			background: rgba(255, 255, 255, 0.15);
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
@@ -562,18 +561,17 @@
 			}
 
 			.wrapper.style2 .button.special {
-				background: white;
-				border-color: white;
-				color: #83d3c9 !important;
+                background: #131520;
+                border-color: white;
 			}
 
 				.wrapper.style2 .button.special:hover {
-					border-color: inherit !important;
-					color: white !important;
+                    background: #0677c2 !important;
+                    border-color: white !important;
 				}
 
 		.wrapper.style3 {
-			background: rgba(255, 255, 255, 0.05);
+			background: rgba(255, 255, 255, 0.15);
 			color: inherit;
 		}
 
@@ -632,7 +630,7 @@
 
 				#header nav ul li a {
 					border: solid 1px transparent;
-					color: #3385D6;
+					color: #AFF3E0;
 					display: inline-block;
 					padding: 0em 0.75em;
 					text-decoration: none;
@@ -760,12 +758,15 @@
 	@keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 
 	#banner {
-		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #131520;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
-		background-position: bottom left, bottom right, top left, top center;
+		background-image: url("../images/banner.jpg");
+        background-size: 100%;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, auto, cover;
+        position: absolute;
+        min-height:100%;
+        width: 100%;
+        height: auto;
+        top: 0;
+        left: 0;
 		color: white;
 		cursor: default;
 		padding: 6em 0;
@@ -783,7 +784,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(255, 255, 255, 0.05);
+			background: rgba(255, 255, 255, 0.15);
 			color: white;
 			display: inline-block;
 			opacity: 0;
