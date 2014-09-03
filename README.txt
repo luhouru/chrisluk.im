@@ -1,9 +1,7 @@
 CHRISLUK.IM
 
-Personal Portfolio Website
+Personal Website
 ===========================
 
-Using Twenty by HTML5 UP
-
-CL
 chrisluk.im // luk@chrisluk.im
+Chris Luk
