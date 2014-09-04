@@ -760,6 +760,7 @@
 	#banner {
 		background-image: url("../images/banner.jpg");
         background-size: 100%;
+        background-attachment: fixed;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
         position: absolute;
         min-height:100%;

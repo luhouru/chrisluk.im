@@ -28,9 +28,8 @@
 	<body class="index loading">
 	
 		<!-- Header -->
-            <br><br>
 			<header id="header" class="alt">
-				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM  </span></a><img src="images/logo.PNG" style="padding-top: 1px; padding-left: 1px" height="22" width="22"/></h1>
+				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM  </span><img src="images/logo.PNG" style="position: absolute; top: 31px; left: 155px;" height="30" width="30"/></a></h1>
 				<nav id="nav">
 					<ul>
 						<li class="submenu">
@@ -54,6 +53,7 @@
 
 		<!-- Banner -->		
 			<section id="banner">
+                <br><br><br><br>
 				<div class="inner">
 					<header>
 						<h2>Chris Luk</h2>
@@ -69,7 +69,7 @@
 				
 				</div>
 <article id="main">
-                <br><br><br><br><br><br>
+                <br><br><br><br><br>
 				<header class="special container">
 					<span class="icon feature fa-user"></span>
 					<h2>BRIEF <strong>SYNOPSIS</strong><br /></h2>
@@ -108,7 +108,7 @@
                     
 					<section id=attributes class="wrapper style1 container special">
 						<div class="row">
-                            <br><br><br><br><br><br><br><br><br><br>
+                            <br><br><br><br><br><br><br><br><br>
 							<div class="4u">
 							
 								<section>
@@ -225,7 +225,7 @@
 				</footer>
                 <br><br>
                 <script type="text/javascript" src="http://www3.smartchatbox.com/shoutbox/start.php?key=970744588"></script>    
-                <br><br>
+                <br><br><br><br><br>
                 <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script><br>
 			</section>
 		<!-- Footer -->
