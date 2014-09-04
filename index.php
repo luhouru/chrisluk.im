@@ -53,7 +53,7 @@
 
 		<!-- Banner -->		
 			<section id="banner">
-                <br><br><br><br>
+                <br><br>
 				<div class="inner">
 					<header>
 						<h2>Chris Luk</h2>
