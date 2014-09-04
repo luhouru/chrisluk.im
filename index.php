@@ -29,7 +29,7 @@
 	
 		<!-- Header -->
 			<header id="header" class="alt">
-				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM  </span><img src="images/logo.PNG" style="position: absolute; top: 31px; left: 155px;" height="30" width="30"/></a></h1>
+				<h1 id="logo"><a href="index.php">CHRISLUK<span>.IM  </span><img src="images/logo.PNG" style="position: absolute; top: 27px; left: 133px;" height="23" width="23"/></a></h1>
 				<nav id="nav">
 					<ul>
 						<li class="submenu">
@@ -73,7 +73,7 @@
 				<header class="special container">
 					<span class="icon feature fa-user"></span>
 					<h2>BRIEF <strong>SYNOPSIS</strong><br /></h2>
-					<p>Born and raised in Wellesley, MA, currently reside in Boston, MA. I love waking up to a warm cup of coffee, sitting down at my desk, and coding the day away. On the side I enjoy dining at restaurants with some fine wine, playing League of Legends, and listening to EDM. I pretty much eat, sleep, rave, repeat.
+					<p>Born and raised in Wellesley, MA. Boston is my home. I love waking up to a warm cup of coffee, sitting down at my desk, and coding the day away. On the side I enjoy dining at restaurants with some fine wine, playing League of Legends, and raving to EDM. Follow me on <a href="http://twitter.com/emperorsyno">Twitter</a>.
                     </p>
 				</header>
 					
@@ -86,7 +86,7 @@
 								<header>
 									<h2 align="left">MY <strong>STORY</strong></h2>
 								</header>
-								<p align="left">Hi. Currently attending Northeastern University as a Computer Science major. I am set to graduate the summer of 2016. Most of my time I spend developing software at my job, sitting at home playing video games, or longboarding down Route 9. People would describe me as carefree, open-minded, easy-going, and self-confident. When I stress about why my code fails to compile, I have to lay back, relax, and drink some Dunkin' Donuts iced coffee in order to keep me sane. On the weekends I enjoy going out with friends and keeping up with professional League of Legends. I see myself using my passion for programming as an opportunity to immerse myself into the culture and high energy environment that is eSports. Am I wrong for trying to reach the things that I can't see?</p>
+								<p align="left">Hi. Currently attending Northeastern University as a Computer Science major. I am set to graduate the summer of 2016. Most of my time I spend developing software at my job, sitting at home playing video games, or longboarding down Route 9. People would describe me as carefree, open-minded, easy-going, and self-confident. When I stress about why my code fails to compile, I have to lay back, relax, and drink some Dunkin' Donuts iced coffee in order to keep me sane. On the weekends I enjoy going out with friends and keeping up with professional League of Legends. I see myself using my passion for programming as an opportunity to immerse myself into the culture and high energy environment that is eSports. Help me reach my dream!</p>
 								<footer>
 									<ul align="left" class="buttons">
 										<li><a href="#attributes" class="button special fit scrolly">VIEW MY SKILLS</a></li>
@@ -116,7 +116,7 @@
 									<header>
 										<h2 style="color:#AFF3E0;">WEB DEVELOPMENT</h2>
 									</header>
-									<p style="color:white;">Worked with PHP, Symfony, Twig, HTML to develop web applications and products.</p>
+									<p style="color:white;">Skilled in PHP, Symfony, Twig, HTML, and developing web applications and products.</p>
 								</section>
 							
 							</div>
@@ -138,7 +138,7 @@
 									<header>
 										<h2 style="color:#AFF3E0;">QA ENGINEER</h2>
 									</header>
-									<p style="color:white;">Experience with test automation, writing test cases, debugging, and using project management tools</p>
+									<p style="color:white;">Experience with test automation, writing test cases, debugging, and using project management tools.</p>
 								</section>
 							
 							</div>
