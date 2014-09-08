@@ -155,7 +155,7 @@
 							<div class="12u">
 							
 								<section>
-									<a href="http://www.chrisluk.im/nashor" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="http://www.nashordb.net" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
 									<header>
 										<h3>NashorDB</h3>
 									</header>
@@ -202,7 +202,7 @@
 
 						<footer class="major">
                             <ul class="buttons">
-								<li><a href="/nashor" class="button special fit">VISIT NASHORDB</a></li>
+								<li><a href="http://www.nashordb.net" class="button special fit">VISIT NASHORDB</a></li>
 							</ul>
 							<ul class="buttons">
 								<li><a href="#cta" class="button special fit scrolly">MORE</a></li>
