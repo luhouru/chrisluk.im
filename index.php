@@ -201,6 +201,9 @@
 						</div>-->
 
 						<footer class="major">
+                            <ul class="buttons">
+								<li><a href="/nashor" class="button special fit">VISIT NASHORDB</a></li>
+							</ul>
 							<ul class="buttons">
 								<li><a href="#cta" class="button special fit scrolly">MORE</a></li>
 							</ul>
