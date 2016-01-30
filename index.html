@@ -5,8 +5,8 @@
 
   <meta charset="utf-8">
   <title>Chris Luk</title>
-  <meta name="description" content="chris luk portfolio website">
-  <meta name="keywords" content="chris, luk, luho">
+  <meta name="description" content="chris luk website luho">
+  <meta name="keywords" content="chris luk luho website">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="author" content="chrisluk.im">
   <link rel="icon" type="image/png" href="img/icon.png" />
@@ -15,7 +15,7 @@
 
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/style-responsive.css">  
+  <link rel="stylesheet" href="css/style-responsive.css">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   
   <!--[if lt IE 9]>
@@ -37,15 +37,11 @@
 
 <div class="opacity-nav">
 
-        <div class="menu-index" id="buttons" style="z-index:999999">
-        <i class="fa  fa-close"></i>
-        </div>
-
     <ul class="menu-fullscreen">
-      <li><a class="ajax-link" href="single.html">Home</a></li>
-      <li><a class="ajax-link" href="projects.html">The Undertaking</a></li>
-      <li><a class="ajax-link" href="about-us.html">About Me</a></li>
-      <li><a class="ajax-link" href="contact.html">Contact</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="projects.html">Undertaking</a></li>
+      <li><a href="about-us.html">About Me</a></li>
+      <li><a href="contact.html">Contact</a></li>
     </ul>
 
 </div>
@@ -54,7 +50,7 @@
   <!--Header-->
   <header id="fullscreen">
     
-      <div class="logo" id="full"><a class="ajax-link" href="index.html">LUHO</a></div>
+      <div class="logo" id="full"><a class="ajax-link" href="index.html">WELCOME</a></div>
       
         <div class="menu-index" id="button">
         <i class="fa fa-bars"></i>
@@ -71,19 +67,19 @@
 
         <div class="text-intro" id="site-type">
 
-          <h1>Hi, my name is</h1>
-          <h1 class="typewrite"><span>LUHO</span></h1> <!--Change on script.js-->
-          <p>Please check out the Undertaking. Here lies all the projects I have been working on.</p>
+          <h1>Hi, my name is:</h1>
+          <h1 class="typewrite"><span>CHRIS </span></h1>
+          <p>This is my website.</p>
 
         </div>
 
 
   <!--Portfolio grid-->
 
-  <ul class="portfolio-grid" id="portfolio-sidebar">
+  <ul class="portfolio-grid">
 
     
-    <li class="grid-item">
+    <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
       <img src="img/portfolio/1.jpg">
         <a class="ajax-link" href="single.html">  
           <div class="grid-hover">
@@ -93,9 +89,9 @@
         </a>  
     </li>
 
-    <li class="grid-item">
+    <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
       <img src="img/portfolio/5.jpg">
-        <a class="ajax-link" href="single-fullscreen.html">  
+        <a class="ajax-link" href="single.html">  
           <div class="grid-hover">
             <h1>PROJECT II</h1>
             <p>TBC</p>
@@ -103,9 +99,9 @@
         </a>      
     </li>    
     
-    <li class="grid-item">
+    <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
       <img src="img/portfolio/2.jpg">
-        <a class="ajax-link" href="#">  
+        <a class="ajax-link" href="single.html">  
           <div class="grid-hover">
             <h1>PROJECT III</h1>
             <p>TBC</p>
@@ -113,9 +109,9 @@
         </a>      
     </li>  
     
-    <li class="grid-item">
+    <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
       <img src="img/portfolio/3.jpg">
-        <a class="ajax-link" href="#">  
+        <a class="ajax-link" href="single.html">  
           <div class="grid-hover">
             <h1>PROJECT IV</h1>
             <p>TBC</p>
@@ -123,9 +119,9 @@
         </a>      
     </li>    
 
-    <li class="grid-item">
+    <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
       <img src="img/portfolio/4.jpg">
-        <a class="ajax-link" href="#">  
+        <a class="ajax-link" href="single.html">  
           <div class="grid-hover">
             <h1>PROJECT V</h1>
             <p>TBC</p>
@@ -133,9 +129,9 @@
         </a>      
     </li>    
 
-    <li class="grid-item">
+    <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
       <img src="img/portfolio/6.jpg">
-        <a class="ajax-link" href="#">  
+        <a class="ajax-link" href="single.html">  
           <div class="grid-hover">
             <h1>FAVORITES</h1>
             <p>TBC</p>
@@ -147,28 +143,7 @@
 
   </div>
 
-  <!--Home Sidebar-->
-
-<div id="ajax-sidebar">
-
-  <div class="home-sidebar" style="background-image:url('img/home-sidebar.jpg')" id="hero">
-
-    <div class="parallax-option" data-jkit="[parallax:strength=0.8;axis=both]">
-
-      <div class="parallax parallax1"><img src="img/business-card-2.png"></div>
-    
-    </div>
-
-    <div class="parallax-option" data-jkit="[parallax:strength=0.3;axis=both]">
-
-      <div class="parallax parallax1"><img src="img/business-card.png"></div>
-    
-    </div>
-
-  </div>
-
-</div>
-
+  <div id="ajax-sidebar"></div>
 
   <!--Footer-->
 
@@ -176,9 +151,11 @@
 
     <div class="footer-margin">
       <div class="social-footer">
-        <a href="https://www.facebook.com/thomsooncom"><i class="fa fa-facebook"></i></a>
-        <a href="https://www.behance.net/TomaszMazurczak"><i class="fa fa-behance"></i></a>
-      
+        <a href="https://www.facebook.com/cluk2971"><i class="fa fa-facebook"></i></a>
+        <a href="https://www.github.com/luhouru"><i class="fa fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/chriseluk"><i class="fa fa-linkedin"></i></a>
+        <a href="skype:-chrisrook81-?chat"><i class="fa fa-skype"></i></a>
+        <a href="http://paypal.me/luho"><i class="fa fa-paypal"></i></a>
       </div>     
       <div class="copyright">Copyright © 2016 Chris Luk. All Rights Reserved.</div>
       
@@ -205,7 +182,7 @@
   <script src="js/script.js" type="text/javascript"></script>
   
 	<script>
-    $('#button, #buttons').on('click', function() {
+    $('#button').on('click', function() {
       $( ".opacity-nav" ).fadeToggle( "slow", "linear" );
     // Animation complete.
     });
