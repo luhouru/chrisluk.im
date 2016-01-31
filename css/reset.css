@@ -23,11 +23,6 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	background: url(/img/background.png) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
