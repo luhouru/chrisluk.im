@@ -33,7 +33,7 @@ a{
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
 	transition: all 0.2s ease-in; 
-	border-bottom:1px solid #24F165;
+	border-bottom:1px solid #2B92FF5;
 }
 
 a:focus {
@@ -142,7 +142,7 @@ ul.menu-fullscreen li > a{
 }
 
 ul.menu-fullscreen li > a:hover{
-  color:#24F165;
+  color:#2B92FF;
 }
 
 
@@ -228,7 +228,7 @@ ul.social-icon a:hover{
 .menu-index i{
   float:right;
   font-size:18px;
-  color:#24f165;
+  color:#2B92FF;
   padding-right:0px !important;
 }
 
@@ -272,7 +272,7 @@ header .logo > a{
   float:left;
   line-height:80px;
   padding-right:40px;
-  border-bottom: 1px solid #26ca5a;
+  border-bottom: 1px solid #2B92FF;
 }
 
 header .logo > a:hover{
