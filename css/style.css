@@ -33,7 +33,7 @@ a{
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
 	transition: all 0.2s ease-in; 
-	border-bottom:1px solid #2B92FF5;
+	border-bottom:1px solid #2B92FF;
 }
 
 a:focus {
