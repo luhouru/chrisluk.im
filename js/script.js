@@ -168,7 +168,7 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["LAIDBACK ","RUKTHENUKE ", "CHRIS LUK "],
+            strings: ["RUKTHENUKE ","LAIDBACK ", "CHRIS LUK "],
             typeSpeed: 100,
             backDelay: 500,
             loop: false,
