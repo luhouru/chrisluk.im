@@ -570,7 +570,7 @@ FOOTER
 #footer-box{height:150px; margin-top:75px;}
 
 footer{
-  background: #1B1B1B;
+  background: transparent;
   width:100%;
   margin-top:150px;
   height:300px;
