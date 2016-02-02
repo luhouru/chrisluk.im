@@ -21,8 +21,7 @@ Ajax link page transitions
 	$("a.ajax-link").live("click", function(){
 		$this = $(this);
 		var link = $this.attr('href');
-		var current_url = $(location).attr('href');	
-		
+		var current_url = $(location).attr('href');
 		if( link != current_url && link != '#' ) { 
 		$.ajax({
 			url:link,
